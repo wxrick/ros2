@@ -1,0 +1,1 @@
+/home/richard/catkin_ws/src/ai_labs/scripts/lab2_b_c.py
